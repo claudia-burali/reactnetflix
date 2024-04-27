@@ -19,7 +19,5 @@ function App() {
 
 export default App;
 
-/*
-
-<ProfilePage />
+/*<ProfilePage />
 <AccountPage />*/
